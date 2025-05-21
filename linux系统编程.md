@@ -1,1 +1,2 @@
 - [Linux System Prorgramming作者robert love CN手册PDF](https://shukai.oss-cn-hangzhou.aliyuncs.com/file/linux/Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%28%E4%B8%AD%E6%96%87%E7%89%88%29.pdf)
+- [C语言编程透视](https://tinylab.gitbooks.io/cbook/content/zh/preface/01-chapter1.html)
