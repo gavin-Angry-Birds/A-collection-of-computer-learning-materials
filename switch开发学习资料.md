@@ -3,3 +3,6 @@
 - 失效链接
 > http://www.mathcs.emory.edu/~cheung/Courses/455/Syllabus/4a-bridge/spanning-tree.html
 > http://www.mathcs.emory.edu/~cheung/Courses/455/Syllabus/syl.html#CURRENT
+- [linux基金会的交换机开源项目 DNET](https://dent.dev/)
+- [mscc交换机switchdev驱动项目](https://bootlin.com/blog/free-electrons-contributes-linux-support-for-microsemi-mips-soc/)
+
