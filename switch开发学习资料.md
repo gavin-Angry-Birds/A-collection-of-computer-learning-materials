@@ -14,7 +14,9 @@
 - [microchip交换芯片SDK](https://github.com/microchip-ung)
 - [台湾交换芯片和博通对比](https://www.embeddedethernetmodules.com/sale-12936269-l3-management-10g-ethernet-switch-turn-key-custom-services-28-54-port.html)
 - [开源的交换机管理平台web](https://github.com/picone/SwitchManage)
-
+- [Keepalive详解] (https://www.cnblogs.com/rexcheny/p/10778567.html)
+- [使用 keepalived 实现双机热备](https://shaocheng.li/posts/2019/08/24/)
+- [/Keepalived配置简介](https://keepalived-doc.readthedocs.io/zh-cn/latest/Keepalived%E9%85%8D%E7%BD%AE%E7%AE%80%E4%BB%8B.html)
 
 
 
