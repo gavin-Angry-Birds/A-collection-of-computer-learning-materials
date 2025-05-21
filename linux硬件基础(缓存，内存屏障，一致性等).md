@@ -1,0 +1,2 @@
+- [蜗窝科技:内存一致性的介绍](http://www.wowotech.net/memory_management/456.html)
+- [高速缓存一致性](https://www.zhihu.com/people/1hdiujw687/columns)
